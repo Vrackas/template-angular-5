@@ -1,0 +1,10 @@
+.nav > li > a:focus, .nav > li > a:active {
+  text-decoration: none;
+  background-color: #eee;
+}
+
+.active {
+  text-decoration: none;
+  background-color: #eee;
+}
+/*# sourceMappingURL=user-management.component.css.map */

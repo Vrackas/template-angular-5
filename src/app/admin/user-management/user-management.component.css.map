@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAY,IAAR,GAAG,EAAE,GAAG,CAAC,AAAA,MAAM,EAAE,AAAY,IAAR,GAAG,EAAE,GAAG,CAAC,AAAA,OAAO,CAAC;EACxC,eAAe,EAAE,IAAI;EACrB,gBAAgB,EAAE,IAAI;CACvB;;AAED,AAAA,OAAO,CAAC;EACN,eAAe,EAAE,IAAI;EACnB,gBAAgB,EAAE,IAAI;CACzB",
+    "sources": [
+        "user-management.component.scss"
+    ],
+    "names": [],
+    "file": "user-management.component.css"
+}

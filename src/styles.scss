@@ -1,0 +1,41 @@
+@import 'variables';
+@import '../node_modules/font-awesome/scss/font-awesome';
+@import "assets/sass/light-bootstrap-dashboard";
+
+
+.sub_menu {
+    .logo {
+      height: 80px;
+      background-color: rgb(255, 255, 255);
+      box-shadow: 0px 3px 3px 0px rgba(28, 28, 29, 0.07);
+      border-right: 1px solid #d6d6d6;
+      .simple-text {
+        padding: 0;
+        .logo-img {
+          img {
+            //height: 40px;
+            width: 105px;
+            top: 21px;
+          }
+        }
+      }
+      div {
+        button {
+          height: 50px;
+          width: 50px;
+          border: none;
+          position: absolute;
+          top: 8px;
+          right: 35px;
+          img {
+            height: 50px;
+            width: 50px;
+            border-radius: 100px;
+          }
+          &:focus {
+            background: none;
+          }
+        }
+      }
+    }
+  }
